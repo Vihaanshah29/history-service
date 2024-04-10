@@ -1,0 +1,5 @@
+edu\iu\prebello\historyservice\repository\PrimesHistoryRepository.class
+edu\iu\prebello\historyservice\model\PrimesRecord.class
+edu\iu\prebello\historyservice\rabbitmq\MQReceiver.class
+edu\iu\prebello\historyservice\HistoryServiceApplication.class
+edu\iu\prebello\historyservice\controllers\PrimesHistoryController.class
